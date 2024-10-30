@@ -1,0 +1,5 @@
+C:/ARM_Prj/ARM_F407_spi_i2c/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+C:/ARM_Prj/ARM_F407_spi_i2c/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+C:/ARM_Prj/ARM_F407_spi_i2c/CMSIS/Include/core_cm4.h:2022:26:SysTick_Config	16	static
+../Src/main.c:26:6:delayMs	24	static
+../Src/main.c:35:5:main	48	static
